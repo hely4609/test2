@@ -1,0 +1,7 @@
+# file
+README.md
+*.md
+
+# dir
+test/
+
