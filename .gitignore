@@ -1,6 +1,7 @@
 # file
 README.md
 *.md
+*.mp4
 
 # dir
 test/
